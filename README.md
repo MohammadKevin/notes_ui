@@ -18,9 +18,9 @@ A clean, responsive web application for writing notes, organizing tasks, and pin
 ---
 
 ## ✨ Key Features
-- ⚡ **Instant search and tag filtering**: Instant search and tag filtering
-- ⚡ **Color-coded note cards with pin-to-top feature**: Color-coded note cards with pin-to-top feature
-- ⚡ **Responsive layout optimized for mobile and desktop**: Responsive layout optimized for mobile and desktop
+- Instant search and tag filtering
+- Color-coded note cards with pin-to-top feature
+- Responsive layout optimized for mobile and desktop
 
 ---
 
