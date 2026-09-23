@@ -12,26 +12,26 @@
 
 ---
 
-## 📌 Overview
+## Overview
 A clean, responsive web application for writing notes, organizing tasks, and pinning important thoughts with fluid animation effects.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - Instant search and tag filtering
 - Color-coded note cards with pin-to-top feature
 - Responsive layout optimized for mobile and desktop
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Framework**: Next.js
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS, Framer Motion
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```text
 notes_ui/
 ├── app/
@@ -41,7 +41,7 @@ notes_ui/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 Make sure you have the required runtimes and tools installed on your machine:
@@ -58,7 +58,7 @@ npm run dev
 
 ---
 
-## 👤 Author
+## Author
 **Mohammad Kevin Arif Rudianto**
 - **GitHub:** [@MohammadKevin](https://github.com/MohammadKevin)
 - **Portfolio:** [portfolio-mohammadkevin.vercel.app](https://portfolio-mohammadkevin.vercel.app)
@@ -67,9 +67,9 @@ npm run dev
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
-⭐️ If you found this repository useful, please consider giving it a star!
+If you found this repository useful, please consider giving it a star!
 </div>
